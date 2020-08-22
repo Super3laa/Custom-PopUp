@@ -4,7 +4,6 @@ Voila you're in the right place.
 ##
 ![Mob](https://imgur.com/sLDfkj2.png)
 ##
-##
 ![Web](https://media.giphy.com/media/f8tbIN8CHVhDC3H6tf/giphy.gif)
 ##
 # How it works ?
