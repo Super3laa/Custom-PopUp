@@ -1,5 +1,5 @@
 {
-  "name": "custom-popup",
+  "name": "@alaaessam/custom-popup",
   "version": "0.1.0",
   "main": "build/index.js",
   "scripts": {
@@ -134,5 +134,20 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React Library](https://github.com/dimimikadze/create-react-library).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Super3laa/Custom-PopUp.git"
+  },
+  "keywords": [
+    "PopUp",
+    "React",
+    "Customizable"
+  ],
+  "author": "Alaa Essam",
+  "bugs": {
+    "url": "https://github.com/Super3laa/Custom-PopUp/issues"
+  },
+  "homepage": "https://github.com/Super3laa/Custom-PopUp#readme"
 }
